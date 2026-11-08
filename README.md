@@ -18,3 +18,9 @@ Pilih tool sesuai kategori + anggaran. Kolom "Gratis?" = `Ya` sepenuhnya gratis,
 
 ## Kontribusi
 PR welcome — tambahkan baris baru di tabel dengan format yang sama.
+
+## Tools tambahan
+| Tool | Kategori | Gratis? | Bahasa Indonesia | Catatan |
+|---|---|---|---|---|
+| Gemini | Asisten umum | Ya (free tier) | Ya | Integrasi bagus dengan Google Docs/Sheets |
+| Perplexity | Riset web | Ya (free tier) | Ya | Jawaban dengan sumber terkutip |
